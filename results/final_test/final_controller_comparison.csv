@@ -1,0 +1,4 @@
+controller,mean_replicas,peak_replicas,total_overload,minutes_overloaded,scaling_changes,replica_minutes
+Reactive,10.927579365079366,20,89834.9992980957,736,1391,22030
+Predictive,10.70486111111111,20,97940.99960327148,806,958,21581
+Uncertainty-aware,11.783730158730158,20,37621.00018310547,342,954,23756

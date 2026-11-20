@@ -1,0 +1,4 @@
+controller,mean_replicas,peak_replicas,total_overload,minutes_overloaded,scaling_changes
+Reactive,10.925099206349206,20,90328.0,737,1392
+Predictive,11.101686507936508,20,68937.0,589,1058
+Adaptive cooldown,11.121527777777779,20,79518.0,623,520
